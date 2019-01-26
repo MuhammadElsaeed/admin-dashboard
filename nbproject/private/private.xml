@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/wamp64/www/junior-developer-task/resources/views/services.blade.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/resources/views/partials/header.blade.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/app/Http/Kernel.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/Procfile</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/app/Http/Controllers/ServiceController.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/routes/web.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/app/Http/Controllers/DashboardController.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/app/Http/Middleware/CheckServicesCount.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/public/js/main.js</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/database/migrations/2019_01_24_091440_create_clients_table.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/database/seeds/DefaultRecords.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/.env</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/resources/views/dashboard.blade.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/.gitignore</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/app/Http/Controllers/ClientController.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/database/migrations/2019_01_24_094753_create_services_table.php</file>
+            <file>file:/E:/wamp64/www/junior-developer-task/composer.json</file>
+        </group>
+    </open-files>
 </project-private>
