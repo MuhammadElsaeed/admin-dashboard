@@ -37,7 +37,7 @@ start your server
 ```sh
 php artisan serve –port=8888
 ```
-Your app should now be running on [localhost:8000](http://localhost:8000).
+Your app should now be running on [localhost:8888](http://localhost:8888).
 
 ## Step 6
 log in to admin dashboard
